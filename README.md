@@ -21,14 +21,16 @@
 
 # My Projects
 > ### Geotest
-> Online test system, with the ability to check the applicant for cheating (going to other links, trying to disable js, copying and pasting)
+> Online test system, with the ability to check the applicant for cheating (going to other links, trying to disable js, copying and pasting).
 >
->[Link](https://www.google.com)
+>[Link](https://geogratest-66def.web.app/)
 ___
 > ### FJUP
-> Discord Music bot serving on heroku
->[Link](https://www.google.com)
+> Discord Music bot serving on heroku.
+>
+>[Link](https://fortyxd.github.io/FJUP/)
 ___
 > ### MakeCityLookBetter
-> A project that aims to show that old buildings that look like ruins need to be reconstructed
->[Link](https://www.google.com)
+> A project that aims to show that old buildings that look like ruins need to be reconstructed.
+>
+>[Link](https://make-city-look-better.vercel.app/)
