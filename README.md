@@ -20,17 +20,17 @@
  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 # My Projects
-> ### Geotest
+> ## Geotest 🧑🏼‍💻
 > Online test system, with the ability to check the applicant for cheating (going to other links, trying to disable js, copying and pasting).
 >
 >[Link](https://geogratest-66def.web.app/)
 ___
-> ### FJUP
+> ## FJUP 🤖
 > Discord Music bot serving on heroku.
 >
 >[Link](https://fortyxd.github.io/FJUP/)
 ___
-> ### MakeCityLookBetter
+> ## MakeCityLookBetter 🏗
 > A project that aims to show that old buildings that look like ruins need to be reconstructed.
 >
 >[Link](https://make-city-look-better.vercel.app/)
