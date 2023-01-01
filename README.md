@@ -25,10 +25,10 @@
 >
 >[Link](https://geogratest-66def.web.app/)
 ___
-> ## FJUP 🤖
-> Discord Music bot serving on heroku.
+> ## Octohack 🤖
+> Moscow Olympiad for schoolchildren in CTF (Capture the flag)
 >
->[Link](https://fortyxd.github.io/FJUP/)
+>[Link](https://it1584.online/login)
 ___
 > ## MakeCityLookBetter 🏗
 > A project that aims to show that old buildings that look like ruins need to be reconstructed.
