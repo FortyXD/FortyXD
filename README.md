@@ -1,6 +1,6 @@
 
 # Andrey Moiseykin 
-> 👨🏻‍💻 Web Front-end Developer
+> 👨🏻‍💻 Web Full-stack Developer
 
 
 # Knowledge
